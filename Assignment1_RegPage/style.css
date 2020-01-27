@@ -1,0 +1,50 @@
+.nav-bar{
+    background-color: white;
+    text-align: right;
+    border: 2px solid black;
+    padding: 10px 5px 10px 0px;
+    height: 25px;
+}
+
+.NavButton{
+    background-color: darkblue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.box1{
+    background-color: lightseagreen;
+    height: 100%;
+    padding: 25px 20px 20px 20px;
+}
+
+.box2{
+    background-color: white;
+    margin: 40px 500px 50px 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+
+input {
+    padding: 5px 25px 5px 25px;   
+    margin: 10px 10px 10px 10px;
+}
+
+.SubButton{
+    padding: 5px 5px 5px 5px;   
+    margin: 10px 10px 10px 10px;
+    width: 170px;
+    background-color: darkblue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
